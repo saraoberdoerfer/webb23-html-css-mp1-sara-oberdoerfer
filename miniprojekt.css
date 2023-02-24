@@ -1,0 +1,81 @@
+/*sätt text i mitten av hemsidan, använd class, gör så att margin från toppen är 100px, färg är blå */
+.Sara {
+    margin-top: 100px;
+    text-align: center;
+    color: blue
+}
+/*sätt text i mitten av hemsidan, ändra font */
+#paragraf {
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+/*ändra storlek på bild och flytta den till mitten med hjälp av att ändra positionen*/
+#pic {
+    width: 13%;
+    height: 30%;
+    position: relative;
+    left: 43%;
+}
+/*ändra font och gör bakgrund rosa, gör diven mindre, och flytta diven med hjälp av att ändra positionen */
+#fakta {
+    font-style: italic;
+    background-color: pink;
+    width: 15%;
+    position: relative;
+    left: 42%;
+}
+/*sätt text i mitten av hemsidan */
+#citat {
+    text-align: center;
+}
+/*sätt text i mitten av hemsidan, ändra margin både höger och vänster till 20px */
+#nav {
+    margin-left: 20px;
+    margin-right: 20px;
+    text-align: center;
+}
+/*sätt text i mitten av hemsidan */
+#lank {
+    text-align: center;
+}
+/*sätt text i mitten av hemsidan */
+#copy {
+    text-align: center;
+}
+/*sätt text i mitten av hemsidan, ändra font, gör margin från top 100px, färg blå */
+.rubrik {
+    color: blue;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin-top: 100px;
+    text-align: center;
+}
+/*sätt text i mitten av hemsidan */
+#inspiration{
+    text-align: center;
+}
+/*sätt text i mitten av hemsidan, ändra font */
+#lista{
+    text-align: center;
+}
+/*ändra bakgrund till rosa, gör divens storlek mindre, flytta diven till mitten med hjälp av att ändra position */
+#punkter{
+    background-color: pink;
+    width: 10%;
+    position: relative;
+    left: 45%;
+}
+/*sätt text i mitten av hemsidan, ändra font, färg blå, margin från top 100px */
+.kontakt{
+    color: blue;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-top: 100px;
+    text-align: center;
+}
+/*sätt text i mitten av hemsidan */
+#form{
+    text-align: center;
+}
+/*gör så när mus är över länk ändra bakgrunsfärg till aqua*/
+a:hover{
+    background-color: aqua;
+}
